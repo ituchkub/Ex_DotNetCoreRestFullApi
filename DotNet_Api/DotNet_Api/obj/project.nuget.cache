@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zgCthyo7WQuL2ZlwjhOcYZRXCw8IjEiQYXMnmgUVp3PELxoSyPgkvqyKrTDZEm7Bwzhw6MaRM8IVpuxdsTmUVQ==",
+  "dgSpecHash": "+vbsxGgRoGZIg587uvSgekAjZwUsVTRUo/RSNYoxoUISSA1prl4K72LPWFK+RNEV0hOtTvuM+hXmeWEBvugNgA==",
   "success": true,
   "projectFilePath": "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_Api\\DotNet_Api.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "C:\\Users\\ITuChKuB\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.0\\microsoft.entityframeworkcore.design.7.0.0.nupkg.sha512",
     "C:\\Users\\ITuChKuB\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.0\\microsoft.entityframeworkcore.relational.7.0.0.nupkg.sha512",
     "C:\\Users\\ITuChKuB\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.0\\microsoft.entityframeworkcore.sqlserver.7.0.0.nupkg.sha512",
+    "C:\\Users\\ITuChKuB\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.0\\microsoft.entityframeworkcore.tools.7.0.0.nupkg.sha512",
     "C:\\Users\\ITuChKuB\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ITuChKuB\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\ITuChKuB\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
