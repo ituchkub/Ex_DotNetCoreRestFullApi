@@ -10,10 +10,7 @@ using Dotnet_Model;
 namespace Dotnet_Model.Helper
 {
     public static class ObjectMapper
-    {
-       
-       
-   
+    {     
         public static EmployeeModel ToViewModel(this Db.MasEmployee item)
         {
             return new EmployeeModel
