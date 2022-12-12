@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
 
-namespace DotNet_DataAccess.Models.DB;
+namespace Dotnet_DataAccess.Models.DB;
 
 [Table("MAS_Employee")]
 public partial class MasEmployee

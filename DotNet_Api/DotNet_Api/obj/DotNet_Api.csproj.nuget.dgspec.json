@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_Api\\DotNet_Api.csproj": {}
+    "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_Api\\Dotnet_Api.csproj": {}
   },
   "projects": {
-    "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_Api\\DotNet_Api.csproj": {
+    "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_Api\\Dotnet_Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_Api\\DotNet_Api.csproj",
-        "projectName": "DotNet_Api",
-        "projectPath": "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_Api\\DotNet_Api.csproj",
+        "projectUniqueName": "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_Api\\Dotnet_Api.csproj",
+        "projectName": "Dotnet_Api",
+        "projectPath": "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_Api\\Dotnet_Api.csproj",
         "packagesPath": "C:\\Users\\ITuChKuB\\.nuget\\packages\\",
         "outputPath": "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_Api\\obj\\",
         "projectStyle": "PackageReference",

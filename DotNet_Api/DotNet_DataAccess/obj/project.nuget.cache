@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p61JF0FHZFV1H5+GKHd4A1eieQW5nBYMvKpheGjGUitTCN3Ld4jidlzoPjtUO1WJvpk9ZRfo++82A7AlCy75ow==",
+  "dgSpecHash": "/QWM/z3UJs8iW7EiY4cWv3vS2/5ohlS17RhvxvSAJk6bNnUeFji4KpzkiaWVvQDM7IwIjKXK1oLxj+SH5J1FVQ==",
   "success": true,
-  "projectFilePath": "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_DataAccess\\DotNet_DataAccess.csproj",
+  "projectFilePath": "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_DataAccess\\Dotnet_DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ITuChKuB\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ITuChKuB\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

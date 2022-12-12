@@ -1,0 +1,15 @@
+C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\Dotnet_Model\bin\Debug\net6.0\Dotnet_Model.deps.json
+C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\Dotnet_Model\bin\Debug\net6.0\Dotnet_Model.dll
+C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\Dotnet_Model\bin\Debug\net6.0\Dotnet_Model.pdb
+C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\Dotnet_Model\bin\Debug\net6.0\Dotnet_DataAccess.dll
+C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\Dotnet_Model\bin\Debug\net6.0\Dotnet_DataAccess.pdb
+C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\Dotnet_Model\obj\Debug\net6.0\Dotnet_Model.csproj.AssemblyReference.cache
+C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\Dotnet_Model\obj\Debug\net6.0\Dotnet_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\Dotnet_Model\obj\Debug\net6.0\Dotnet_Model.AssemblyInfoInputs.cache
+C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\Dotnet_Model\obj\Debug\net6.0\Dotnet_Model.AssemblyInfo.cs
+C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\Dotnet_Model\obj\Debug\net6.0\Dotnet_Model.csproj.CoreCompileInputs.cache
+C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\Dotnet_Model\obj\Debug\net6.0\Dotnet_Model.csproj.CopyComplete
+C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\Dotnet_Model\obj\Debug\net6.0\Dotnet_Model.dll
+C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\Dotnet_Model\obj\Debug\net6.0\refint\Dotnet_Model.dll
+C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\Dotnet_Model\obj\Debug\net6.0\Dotnet_Model.pdb
+C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\Dotnet_Model\obj\Debug\net6.0\ref\Dotnet_Model.dll

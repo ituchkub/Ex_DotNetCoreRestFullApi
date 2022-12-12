@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_DataAccess\\DotNet_DataAccess.csproj": {}
+    "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_DataAccess\\Dotnet_DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_DataAccess\\DotNet_DataAccess.csproj": {
+    "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_DataAccess\\Dotnet_DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_DataAccess\\DotNet_DataAccess.csproj",
-        "projectName": "DotNet_DataAccess",
-        "projectPath": "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_DataAccess\\DotNet_DataAccess.csproj",
+        "projectUniqueName": "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_DataAccess\\Dotnet_DataAccess.csproj",
+        "projectName": "Dotnet_DataAccess",
+        "projectPath": "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_DataAccess\\Dotnet_DataAccess.csproj",
         "packagesPath": "C:\\Users\\ITuChKuB\\.nuget\\packages\\",
         "outputPath": "C:\\FusionSoft\\Ex_DotNetCoreRestFullApi\\DotNet_Api\\DotNet_DataAccess\\obj\\",
         "projectStyle": "PackageReference",

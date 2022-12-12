@@ -1,9 +1,9 @@
 ﻿using System;
-using DotNet_DataAccess;
-using DotNet_DataAccess.Models.Context;
-using DotNet_DataAccess.Repository;
+using Dotnet_DataAccess;
+using Dotnet_DataAccess.Models.Context;
+using Dotnet_DataAccess.Repository;
 
-namespace Thai_Union_DataAccess
+namespace Dotnet_DataAccess
 {
     public interface IUnitOfWork : IDisposable
     {

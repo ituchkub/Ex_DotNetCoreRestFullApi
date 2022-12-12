@@ -4,8 +4,8 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
-using DotNet_DataAccess.Models.Context;
-namespace DotNet_DataAccess.Repository
+using Dotnet_DataAccess.Models.Context;
+namespace Dotnet_DataAccess.Repository
 {
     public interface IRepository<T> where T : class
     {

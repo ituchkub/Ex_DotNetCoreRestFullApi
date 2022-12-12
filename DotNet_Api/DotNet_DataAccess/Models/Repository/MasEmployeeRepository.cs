@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
-using DotNet_DataAccess.Models.Context;
-using DotNet_DataAccess.Repository;
-using Db = DotNet_DataAccess.Models.DB;
+using Dotnet_DataAccess.Models.Context;
+using Dotnet_DataAccess.Repository;
+using Db = Dotnet_DataAccess.Models.DB;
 
-namespace DotNet_DataAccess
+namespace Dotnet_DataAccess
 {
     public interface IMasEmployeeRepository : IRepository<Db.MasEmployee>
     {

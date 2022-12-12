@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using DotNet_DataAccess.Models.DB;
+using Dotnet_DataAccess.Models.DB;
 using Microsoft.EntityFrameworkCore;
 
-namespace DotNet_DataAccess.Models.Context;
+namespace Dotnet_DataAccess.Models.Context;
 
 public partial class DotnetContext : DbContext
 {
