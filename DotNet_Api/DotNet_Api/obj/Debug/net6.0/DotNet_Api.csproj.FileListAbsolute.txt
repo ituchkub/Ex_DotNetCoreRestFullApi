@@ -1,7 +1,0 @@
-C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\DotNet_Api\obj\Debug\net6.0\DotNet_Api.csproj.AssemblyReference.cache
-C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\DotNet_Api\obj\Debug\net6.0\DotNet_Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\DotNet_Api\obj\Debug\net6.0\DotNet_Api.AssemblyInfoInputs.cache
-C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\DotNet_Api\obj\Debug\net6.0\DotNet_Api.AssemblyInfo.cs
-C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\DotNet_Api\obj\Debug\net6.0\DotNet_Api.csproj.CoreCompileInputs.cache
-C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\DotNet_Api\obj\Debug\net6.0\DotNet_Api.MvcApplicationPartsAssemblyInfo.cs
-C:\FusionSoft\Ex_DotNetCoreRestFullApi\DotNet_Api\DotNet_Api\obj\Debug\net6.0\DotNet_Api.MvcApplicationPartsAssemblyInfo.cache
