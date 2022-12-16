@@ -1,4 +1,5 @@
 ﻿using ITuCHCore.Models.DB;
+using ITuCHCore.Service;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -9,66 +10,58 @@ namespace ITuCHCore.Controllers
     public class ITuchController : Controller
     {
 
-   
-        private readonly UserDataContext _context;
 
-        public ITuchController(UserDataContext Context) {
-            _context = Context;
+
+        private readonly ITuchService _service;
+
+        public ITuchController(UserDataContext Context, ITuchService Service)
+        {
+      
+            _service = Service;
         }
         [HttpGet]
-        public async Task<ActionResult<List<MasEmployee>>> Get()
+        public ActionResult<List<MasEmployee>> Get()
         {
-
-
-            return Ok(await _context.MasEmployees.ToListAsync());
+            var Result = this._service.GetAll();
+            return Ok();
         }
         [HttpGet("{Id}")]
-        public async Task<ActionResult<MasEmployee>> Get(int Id)
+        public ActionResult<MasEmployee> Get(int Id)
         {
-            var Employee = await _context.MasEmployees.FindAsync(Id);
-            if (Employee == null) 
+            var Result = this._service.Get(Id);
+            if (Result == null)
             {
                 return BadRequest("Data Not Fould !!");
             }
-            return Ok(Employee);
+            return Ok(Result);
         }
 
         [HttpDelete("{Id}")]
-        public async Task<ActionResult<MasEmployee>> Delete(int Id)
+        public ActionResult<MasEmployee> Delete(int Id)
         {
-            var Employee = await _context.MasEmployees.FindAsync(Id);
-            if (Employee == null)
+            var Result = this._service.DeleteHeaderFromHeaderIDAsync(Id);
+            if (Result == null)
             {
                 return BadRequest("Data Not Fould !!");
             }
-            _context.MasEmployees.Remove(Employee);
-            await _context.SaveChangesAsync();
-            return Ok(Employee);
+            return Ok(Result);
         }
 
         [HttpPut]
-        public async Task<ActionResult<MasEmployee>> UpdateUser(MasEmployee UserDetail)
+        public ActionResult<MasEmployee> UpdateUser(MasEmployee UserDetail)
         {
-            var Employee = await _context.MasEmployees.FindAsync(UserDetail.EmpId);
+            var Employee = this._service.UpdateUser(UserDetail);
             if (Employee == null)
             {
                 return BadRequest("Data Not Fould !!");
             }
-
-            Employee.Name= UserDetail.Name;
-            Employee.Surname = UserDetail.Surname;
-            Employee.Telephone = UserDetail.Telephone;
-            Employee.Email = UserDetail.Email;
-            await _context.SaveChangesAsync();
             return Ok(Employee);
         }
 
         [HttpPost]
-        public async Task<ActionResult<List<MasEmployee>>> AddUser(MasEmployee User)
+        public  ActionResult<List<MasEmployee>> AddUser(MasEmployee User)
         {
-
-            _context.MasEmployees.Add(User);
-            await _context.SaveChangesAsync();
+            var Employee = this._service.AddUser(User);
             return Ok(User);
         }
     }

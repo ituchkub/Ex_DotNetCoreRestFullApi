@@ -1,9 +1,12 @@
 global using ITuCHCore.Models.Context;
+using ITuCHCore.Service;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+
 
 builder.Services.AddControllers();
 builder.Services.AddDbContext<UserDataContext>(options =>
@@ -15,7 +18,7 @@ builder.Services.AddDbContext<UserDataContext>(options =>
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
+builder.Services.AddTransient<ITuchService, TuchService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
